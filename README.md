@@ -1,4 +1,4 @@
-#MovieBase
+# MovieBase
 
 Yapmış olduğum MovieBase uygulamam, Flutter ve Firebase kullanılarak geliştirilmiş bir mobil uygulamadır. 
 
